@@ -36,3 +36,9 @@ Click '''npm start'''
 output screen
 ![Screenshot 2024-03-08 161842](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/11c6f57f-80b5-4e91-b901-26d03cc4ab20)
 
+Different components of the application...
+
+## Home page
+The home oage consists of a basic dashboard of the employee's page.
+![Screenshot 2024-03-08 161748](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/9cdd57e0-9cc8-431b-bdef-e6d436d9455c)
+
