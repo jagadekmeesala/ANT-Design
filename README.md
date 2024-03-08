@@ -42,3 +42,16 @@ Different components of the application...
 The home oage consists of a basic dashboard of the employee's page.
 ![Screenshot 2024-03-08 161748](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/9cdd57e0-9cc8-431b-bdef-e6d436d9455c)
 
+## Side panel
+![Screenshot 2024-03-08 161814](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/c9aed041-b42d-46ed-a0f2-7ffe218bcf65)
+
+## TABLES:
+We have designed 5 tables which have different functionalitites from Searching, filerting, appending and removing data and data manipulation.
+![Screenshot 2024-03-08 161959](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/c3fd5861-669c-4e83-83d3-20f660ce2d9c)
+
+## Visualizations
+- Graph
+  ![Screenshot 2024-03-08 162014](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/34c22e39-ce6b-43bf-aac8-24a4efb5c2ec)
+
+- Pie chart
+  ![Screenshot 2024-03-08 162026](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/4a9802d4-d3bc-405b-a29e-680b6965fcc7)
