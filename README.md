@@ -31,4 +31,8 @@ Extensible and Customizable: • Developers can extend or customize Ant Design c
 ## Folder Structure
 ![Screenshot 2024-03-08 161836](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/9f7b63df-dcc8-4ffd-8575-de0e54c04573)
 
+## Running the project
+Click '''npm start'''
+output screen
+![Screenshot 2024-03-08 161842](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/11c6f57f-80b5-4e91-b901-26d03cc4ab20)
 
