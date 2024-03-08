@@ -28,5 +28,7 @@ Internationalization (i18n): • Supports internationalization out of the box, a
 
 Extensible and Customizable: • Developers can extend or customize Ant Design components to fit specific project requirements.
 
-## TABLES:
-We have designed 5 tables which have different functionalitites from Searching, filerting, appending and removing data and data manipulation.
+## Folder Structure
+![Screenshot 2024-03-08 161836](https://github.com/jagadekmeesala/ANT-Design/assets/85881386/9f7b63df-dcc8-4ffd-8575-de0e54c04573)
+
+
